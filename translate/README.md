@@ -31,7 +31,7 @@ a break from the other stuff I was working on.
 
 # Example
 
-This simply logs into a host, I cat a file with an IP(8.8.8.8*) and a CIDR address(8.8.8.8/32)
+This simply logs into a host, I cat a file with an IP(8.8.8.8) and a CIDR address(8.8.8.8/32)
 and watch the output get translated. Any IPv4 address in the output will get translated from
 any command.
 ```bash
